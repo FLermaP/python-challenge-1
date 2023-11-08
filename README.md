@@ -17,4 +17,4 @@
   *   Print Formating of numerical values
     
 ## Notes:
-  * Python 3.10 or later is required to run the "match-case", Microsoft Python IntelliSense (Pylance) at the time of this update is running Python 3.9.13 and throws an Syntax Error on match-case instructions
+  * Python 3.10 or later is required to run the "match-case", Microsoft Python IntelliSense (Pylance) at the time of this update is running Python 3.9.13 and throws a Syntax Error on match-case instructions
